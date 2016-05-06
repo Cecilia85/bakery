@@ -1,0 +1,27 @@
+h1{
+font-size: 100px;
+color:tomato;
+font-family:Helvetica;
+}
+
+h2{
+font-size: 50px;
+color: tomato;
+font-family:Helvetica;
+
+}
+p{
+width: 300px;
+font-family: Helvetica;
+font-size: 12px;
+float: left;
+padding-left: 20px;
+
+}
+
+
+
+header{
+background-image: url("../bakery/img/ny.jpg");
+height:300px;
+}
